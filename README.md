@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreykuro" alt="andreykuro" /></a> </p>
 
-- 🔭 I’m currently working on [Second Brain -- Windows](https://github.com/Andreykuro/Second-Brain)
+- 🔭 I’m currently working on a lot of projects 
 
 - I'm Learning Front-End and a bit of Backend **React, Node, .NET**
-
-- 👯 I’m looking to collaborate on [Tori Network CORE](https://github.com/Andreykuro/-Tori-Network-CORE)
+ 
+- 👯 I’m looking for mentors -- Senior Devs (Willing to learn)
 
 - I do Java, PHP, Python, C++ and C# [Personal Projects](https://github.com/Andreykuro/Personal-projects)
 
