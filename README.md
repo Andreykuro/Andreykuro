@@ -1,27 +1,6 @@
 <h1 align="center">Hey! my name is Andrey (Andreykuro)</h1>
 <h3 align="center"> Software/Front-End Developer !!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreykuro" alt="andreykuro" /></a> </p>
-
-- 🔭 I’m currently working on **AI / Software Related Projects**
-
-- 🌱 I’m currently learning **Front-End Development, and Earning Certification from IC3, freeCodeCamp, Google, Harvard, AWS.**
-
-- Looking for Internships! **Front-End / Software Engr. Internships**
-
-- 🤝 Willing to work on projects for experience **Collab with me via LinkedIN**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Andreykuro](https://github.com/Andreykuro)
-
-- 📝 I love learning about 'learning' [https://www.youtube.com/@SimplyAndrey](https://www.youtube.com/@SimplyAndrey)
-
-- 💬 Ask me about **Tech-related stuff**
-
-- 📫 How to reach me **andreycoded@gmail.com**
-
-- 📄 Know about my experiences [(Resume Soon)]((Resume Soon))
-
-- Willing to learn about Anything programming related **-- Looking for mentors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
