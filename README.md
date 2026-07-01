@@ -53,8 +53,12 @@
 - 🔌 Plugin Development  
 - 🌐 Web Applications  
 - 🛠️ Tool / Utility Software  
-- 🧱 Backend Systems (entry level)  
-- 🎨 Frontend UI (entry level)
+- 🧱 Backend Systems 
+- 🎨 Frontend UI
+- Software Development
+- Software Engineering
+- System Development
+- AI Development
 
 ---
 
